@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_217b9324338b92d01b4cadfcbd4c1b6955571f59\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_1829b6791d7338e1fe5e1e7007b521d512497430\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_dff15a88fa571a1a8097bc5fee4b3822f0d003b7\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0b1ecd9d3ee560a2d7c74276eaf03b5f954a1438">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_25cc9bb3100d65921985333a27d032618ec1127b\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d34915b9a459cfc38a8b46820d87ccc2da62f82b\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_58afc4ae4ec5d2ed6ee0057e106752004c06517d\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="53d829d6f972b126e51cc952ecdbf4f73ddcd1ad">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7c87b39edb41d08c40874b75a1a84d2c5ab4af97\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_04226e0524c950c3b40c4a75dee7ce6c6a1c6ca3\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_14a34a46435a1e7f7160ef6ce5fbf5e325a6c35b\classes.dex" />
+    </item>
+    <item
+        jar="D:\OwnGames\Eval\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\OwnGames\Eval\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_ae162c3696825493926f5d35f8a7a067a42ba913\classes.dex" />
+    </item>
+
+</items>
